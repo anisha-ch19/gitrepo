@@ -1,0 +1,31 @@
+practicing git commands : 
+
+git config --list 
+git config 
+git config credential.helper store 
+git clone 
+git commit 
+git add 
+git push 
+git pull 
+git reset
+git status
+git diff
+git diff --source
+git diff --staged
+git branch
+git checkout
+git checkout -b 
+git barnch -r
+git pull b 
+git -d branch 
+git push origin b
+git pull origin b
+git push origin -d 
+git init
+git merge
+git clean
+git show 
+git log 
+git mv 
+git rm 
