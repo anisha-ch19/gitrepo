@@ -28,4 +28,8 @@ git clean
 git show 
 git log 
 git mv 
-git rm 
+git rm
+git remote
+git stash
+git pop 
+git reflog 
